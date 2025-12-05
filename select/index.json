@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "光るとき",
+  "base_artist": "羊文学",
+  "createdAt": "2025-12-05T21:35:41.268385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光るとき",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_光るとき_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光るとき",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/02_光るとき_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光るとき",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/03_光るとき_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光るとき - Hikaru toki",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/04_光るとき_-_Hikaru_toki_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "光るとき (Tour 2023 “if i were an angel,”)",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/05_光るとき_(Tour_2023_“if_i_were_an_angel,”)_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "光るとき (Tour 2023 “if i were an angel,”)",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/06_光るとき_(Tour_2023_“if_i_were_an_angel,”)_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "光るとき",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/07_光るとき_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "光るとき (Tour 2023 “if i were an angel,”)",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/08_光るとき_(Tour_2023_“if_i_were_an_angel,”)_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "39.光るとき",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/09_39.光るとき_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "光るとき (闪光之时)",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/10_光るとき_(闪光之时)_羊文学.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光るとき",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_光るとき_羊文学.txt"
+    }
+  ]
+}
